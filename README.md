@@ -12,4 +12,4 @@ Fim do Jogo e sua pontuação:
 
 ![image](https://github.com/user-attachments/assets/604b6d69-d634-449c-916a-942ad24fdf4a)
 
-Link do jogo: 
+Link do jogo: https://luirafa2020.github.io/Palavra-na-Caixa/
